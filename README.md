@@ -16,7 +16,7 @@ Script em Python que organiza automaticamente arquivos de uma pasta com base em 
 
 1. Clone o repositório:
 
-git clone https://github.com/seuusuario/file-organizer.git
+git clone [https://github.com/seuusuario/file-organizer.git](https://github.com/nayvti380/auto-folder-organizer/blob/main/main.py)
 cd file-organizer
 
 markdown
